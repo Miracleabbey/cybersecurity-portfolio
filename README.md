@@ -1,45 +1,37 @@
-#
-
-## Hi, I'm Miracle
+# Hi, I'm Miracle
 
 **Cybersecurity Expert | Network Security | Vulnerability Assessment | Ethical Hacking**
 
 ## About Me
 
-I am a cybersecurity professional with a focus on network security, vulnerability assessment, penetration testing, and security analysis.
+I help organizations protect their digital assets, sensitive information, and business operations from cyber threats that can result in financial loss, data theft, unauthorized access, and operational disruption.
 
-My work focuses on identifying security weaknesses, analysing potential threats, assessing system vulnerabilities, and recommending practical security measures to strengthen digital environments. cybersecurity tools and structured testing methodologies to investigate security issues, document findings, and support improved security practices.
+My focus is on identifying security weaknesses before attackers can exploit them, assessing exposure to threats such as phishing, malware, ransomware, and web application attacks, and recommending effective measures to strengthen security defences.
 
-## Featured Projects
+Through security assessments, technical investigation, controlled testing, and evidence-based reporting, I help organizations understand their vulnerabilities, prioritize risks, and make informed decisions about protecting their systems and information.
 
-| Project                       | Description                                                                                                          | Tools                |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Network Reconnaissance        | Conducted network discovery and service enumeration in a controlled lab environment.                                 | Nmap                 |
-| Web Vulnerability Assessment  | Assessed web applications for potential security weaknesses and documented findings.                                 | OWASP ZAP, Nikto     |
-| Network Traffic Analysis      | Examined network traffic to identify suspicious communication patterns and potential security issues.                | Wireshark            |
-| Phishing Awareness Simulation | Demonstrated phishing techniques in a controlled environment to support security awareness and threat understanding. | Kali Linux, Zphisher |
-| SQL Injection Testing         | Tested an authorised lab application for SQL injection vulnerabilities and documented findings.                      | Burp Suite           |
+## Featured Project
 
-## Technical Skills
+### Phishing Awareness Simulation
 
-- **Network Security:** Network discovery, port scanning, service enumeration
-- **Vulnerability Assessment:** Web application scanning, security findings, remediation recommendations
-- **Security Analysis:** Network traffic inspection and suspicious activity analysis
-- **Ethical Hacking:** Controlled security testing and vulnerability validation
-- **Tools:** Nmap, Wireshark, OWASP ZAP, Nikto, Burp Suite, Kali Linux
-- **Documentation:** Technical reporting, security recommendations, GitHub and Markdown
+Phishing attacks exploit human trust to steal login credentials, gain unauthorized access to business systems, and expose sensitive organizational data. This project demonstrates how deceptive login pages can be used to manipulate users and create opportunities for credential theft.
 
-## Professional Focus
+The project highlights how phishing can threaten organizational security and how employee awareness, multi-factor authentication (MFA), and effective phishing-reporting procedures can help reduce exposure.&#x20;
 
-- Identifying and assessing security vulnerabilities
-- Analysing network and application security risks
-- Documenting findings and recommending remediation
-- Supporting secure systems and responsible security testing
+Its findings provide a foundation for improving awareness, strengthening protective controls, and reducing the risk of a deceptive interaction escalating into a wider security incident.
+
+[**View Project**](https://github.com/Miracleabbey/phishing-awareness-simulation)
+
+## Tools and Technologies
+
+Nmap · Wireshark · OWASP ZAP · Nikto · Burp Suite · Kali Linux · Zphisher · Obuntu ·
+
+Metaploitable · Windows · MITRE ATT&CK · Bettercap · Cisco · hping3 · Splunk.
 
 ## Connect With Me
 
 - **X:** [@miraclemimix](https://x.com/miraclemimix?s=11)
-- **Email:** [balogunmiracleabbey04@gmail.com](mailto:balogunmiracleabbey04@gmail.com)
+- **Email:** [balogunmiracleabbey04@gmail.com](mailto\:balogunmiracleabbey04@gmail.com)
 - **WhatsApp:** [Chat with me](https://wa.me/2347051160995)
 
-*Committed to strengthening cybersecurity through practical analysis, responsible testing, and effective security practices.*
+*Helping organizations anticipate cyber risks, strengthen their defences, and protect what matters most.*
